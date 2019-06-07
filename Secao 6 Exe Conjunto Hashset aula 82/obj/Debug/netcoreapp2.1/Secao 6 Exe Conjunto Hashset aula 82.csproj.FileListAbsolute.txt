@@ -1,0 +1,11 @@
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\bin\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.deps.json
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\bin\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.runtimeconfig.json
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\bin\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.runtimeconfig.dev.json
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\bin\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.dll
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\bin\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.pdb
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\obj\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.csprojAssemblyReference.cache
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\obj\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.csproj.CoreCompileInputs.cache
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\obj\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.AssemblyInfoInputs.cache
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\obj\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.AssemblyInfo.cs
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\obj\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.dll
+F:\Users\wellv\Documents\Programação Orientada a Objeto C#\Secao 6 Exe Conjunto Hashset aula 82\Secao 6 Exe Conjunto Hashset aula 82\obj\Debug\netcoreapp2.1\Secao 6 Exe Conjunto Hashset aula 82.pdb
