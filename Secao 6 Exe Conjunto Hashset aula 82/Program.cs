@@ -12,6 +12,7 @@ namespace Secao_6_Exe_Conjunto_Hashset_aula_82
             A.Add(3); A.Add(5); A.Add(8); A.Add(9);
 
             B.Add(3); B.Add(4); B.Add(5); B.Add(4); //um conjunto não aceita valores repetidos
+            //A adição do numero 4 no conjunto B foi proposital para que mostre que não pode ser alocado elementos com valores repetidos
 
             // B.Remove(Valor desejado) para remover algum elemento contido no conjunto
 
